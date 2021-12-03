@@ -9,8 +9,8 @@
 [Cards de status de commits e linguagens usadas]: #
 <div align="center">
   <a href="https://github.com/andrevictorm">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=victorog17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="420px" height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorog17&layout=compact&langs_count=7&theme=radical"/>
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=andrevictorm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="420px" height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrevictorm&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## Tecnologias:
@@ -31,7 +31,7 @@
 
 [Links de contato]: #
 <div> 
-  <a href = "mailto:andre_victor_m@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andrevictorm2017@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/andre-victor-moreira-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andre.shiryu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
