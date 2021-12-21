@@ -22,11 +22,11 @@
  <img height="80px" alt="Andre Victor-Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
  <img height="80px" alt="Andre Victor-Sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img height="80px" alt="Andre Victor-mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+ <img height="80px" alt="Victor-cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
  <img height="80px" alt="Andre Victor-spark" src="https://symbols.getvecta.com/stencil_74/35_apache-spark.91b7a417a5.svg" />
  <img height="80px" alt="Andre Victor-hadoop" src="https://symbols.getvecta.com/stencil_28/39_hdinsight.aab04dbe9b.svg" />
- <img align="center" alt="Bela-DataBricks" height="80" width="80" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
- <img align="center" alt="Bela-canva" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />  
- <img height="80px" alt="Victor-cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+ <img alt="Bela-DataBricks" height="80" width="80" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
+ <img alt="Bela-canva" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />  
 </div>
   
 ## Contatos:
