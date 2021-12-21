@@ -24,7 +24,7 @@
  <img height="80px" alt="Andre Victor-mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  <img height="80px" alt="Andre Victor-spark" src="https://symbols.getvecta.com/stencil_74/35_apache-spark.91b7a417a5.svg" />
  <img height="80px" alt="Andre Victor-hadoop" src="https://symbols.getvecta.com/stencil_28/39_hdinsight.aab04dbe9b.svg" />
- <img height="80px" alt="Andre Victor-cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+ <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank">
 </div>
   
 ## Contatos:
