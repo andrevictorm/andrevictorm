@@ -1,4 +1,4 @@
-### �Hi, I’m André Victor Moreira Costa, a Genin 🥷🏾 in data world 🌎
+### 👋🏾😎Hi, I’m André Victor Moreira Costa, a Genin 🥷🏾 in data world 🌎
 
     👨🏾‍🎓 Production Engineer, Post Graduated in Occupational Safety and Judicial Expertise;
     👨🏾‍💼📈 Company Consultant;
