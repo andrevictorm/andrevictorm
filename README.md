@@ -1,8 +1,11 @@
-### 👋 Hi, I’m André Victor Moreira Costa, a padawan in data world 🌎
+### �Hi, I’m André Victor Moreira Costa, a Genin 🥷🏾 in data world 🌎
 
-- 👀 I’m interested in Data Engineering, Data Science and Financial Market.
-- 🌱 I’m currently improving skills in cloud computing.
-- 📫 You can reach me in by e-mail and on LinkedIn, just take a look on the links below.
+    👨🏾‍🎓 Production Engineer, Post Graduated in Occupational Safety and Judicial Expertise;
+    👨🏾‍💼📈 Company Consultant;
+    🎲👨🏾‍🔬 Graduated in data engineering;
+    👨🏾‍💼 Pronouns: he / him / his;
+    📫 Contatos: || email: andre_victor_m@hotmail.com || LinkedIn:  www.linkedin.com/in/andre-victor-moreira-costa
+
 
 ## Infos:
 
