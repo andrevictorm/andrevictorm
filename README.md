@@ -27,8 +27,9 @@
 | 📱 [**Início**](https://github.com/andrevictorm/app-download/tree/main/inicio) | App Android de proteção contra assalto: esconde os apps sensíveis quando o celular é entregue desbloqueado. [Baixar](https://github.com/andrevictorm/app-download) | Kotlin · Jetpack Compose · GitHub Actions |
 | 🏠 [**Boston Housing API**](https://github.com/andrevictorm/boston-housing-api) | API de previsão de preço de imóveis, com autenticação por chave, predição em lote e deploy no Render | FastAPI · scikit-learn · Render |
 | 🛒 [**Dashboard de E-commerce**](https://github.com/andrevictorm/Visualiza-o-de-dados-Render) | Análise de vendas de ponta a ponta: geração de dados, SQL, análise e dashboard interativo | Python · SQL · Streamlit |
-| 📈 [**Power BI**](https://github.com/andrevictorm/PowerBI) | Painéis e indicadores de negócio | Power BI |
-| ⚙️ [**Automação com Python**](https://github.com/andrevictorm/Automaco_Python) | Scripts para automatizar tarefas repetitivas | Python |
+| 📈 [**Power BI**](https://github.com/andrevictorm/PowerBI) | Painéis em Power BI, incluindo um projeto de ciência de dados sobre a Disney | Power BI |
+| 🕷️ [**Automação com Python**](https://github.com/andrevictorm/Automaco_Python) | Web scraping e extração automática de dados | Python · Scrapy |
+| 🔄 [**ETL de rede social**](https://github.com/andrevictorm/PROJETOFINAL_REDESOCIAL_ANALISE_BANCO_DE_DADOS_ETL) | Projeto final de Engenharia de Dados: processo de ETL e análise em banco de dados | Python · SQL |
 
 ### Ferramentas
 
